@@ -36,7 +36,7 @@ export default function About() {
               <a href="https://formik.org/docs/overview" target='_blank' rel='noreferrer'
               className="p-link">Formik</a>
               &nbsp;and <a href="https://github.com/jquense/yup" target='_blank' rel='noreferrer' className="p-link"> Yup</a>.
-              My full source code is available <a href="" target='_blank' rel='noreferrer' className="p-link">here on GitHub</a>.
+              My full source code is available <a href="https://github.com/WWatts97/ToDo-App" target='_blank' rel='noreferrer' className="p-link">here on GitHub</a>.
             </p>
           </Col>
         </Row>
